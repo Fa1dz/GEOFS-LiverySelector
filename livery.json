@@ -2916,6 +2916,10 @@
             "parts": [0],
             "liveries": [
                 {
+                    "name": "Alpha Air",
+                    "texture": ["https://raw.githubusercontent.com/GEOFS-LiverySelector/liveries/boeing_b737-800/finalflightpic.png"]
+                
+                {
                     "name": "Spicejet",
                     "texture": ["https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg"]
                 },
